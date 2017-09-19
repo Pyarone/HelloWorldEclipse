@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.println("Additional line.");
 		
+		System.out.println("Another additional line.");
+		
 	}
 	
 }
