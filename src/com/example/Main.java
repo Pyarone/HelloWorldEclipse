@@ -13,6 +13,8 @@ public class Main {
 		System.out.println("A line added from netbeans after checking out from git.");
 		
 		System.out.println("A line added from IntelliJ after checking out from git.");
+                
+                System.out.println("A line added from netbeans after pulling revisions.");
 		
 	}
 	
